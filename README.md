@@ -11,7 +11,7 @@ Link : https://youtu.be/B_SASCCcBu8
 ---
 
 #  Screenshots
-screenshots/Screenshot 2026-03-14 014518.png
+"screenshots/Screenshot 2026-03-14 014518.png"
 
 ---
 
